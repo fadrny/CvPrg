@@ -1,0 +1,13 @@
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\obj\Debug\netcoreapp3.1\kotatkaLinq.csprojAssemblyReference.cache
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\obj\Debug\netcoreapp3.1\kotatkaLinq.csproj.CoreCompileInputs.cache
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\obj\Debug\netcoreapp3.1\kotatkaLinq.AssemblyInfoInputs.cache
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\obj\Debug\netcoreapp3.1\kotatkaLinq.AssemblyInfo.cs
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\bin\Debug\netcoreapp3.1\kotatkaLinq.exe
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\bin\Debug\netcoreapp3.1\kotatkaLinq.deps.json
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\bin\Debug\netcoreapp3.1\kotatkaLinq.runtimeconfig.json
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\bin\Debug\netcoreapp3.1\kotatkaLinq.runtimeconfig.dev.json
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\bin\Debug\netcoreapp3.1\kotatkaLinq.dll
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\bin\Debug\netcoreapp3.1\kotatkaLinq.pdb
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\obj\Debug\netcoreapp3.1\kotatkaLinq.dll
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\obj\Debug\netcoreapp3.1\kotatkaLinq.pdb
+D:\01 - sl\c#\kotatkaLinq\kotatkaLinq\obj\Debug\netcoreapp3.1\kotatkaLinq.genruntimeconfig.cache
